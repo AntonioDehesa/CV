@@ -1,0 +1,40 @@
+/* General */
+body
+{
+    background-color: #def9f5;
+}
+
+hr
+{
+    background-color: none;
+    height: 2px;
+    width: 30%;
+    border-top: dotted;
+    border-bottom: none;
+    border-left: none;
+    border-right: none;
+    border-color: gray;
+    border-width: 10px;
+}
+
+h1,h3
+{
+    color: #66BFBF;
+}
+
+img
+{
+    width:300px;
+    height:300px;
+    border-radius: 200px;
+}
+
+
+table
+{
+    border-spacing: 20px;
+}
+
+/* Class */
+
+/* IDs */
